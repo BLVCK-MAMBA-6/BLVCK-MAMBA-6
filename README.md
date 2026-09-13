@@ -27,7 +27,7 @@
 <h2>About Me</h2>
 
 <p>
-  I build AI systems that do more than work in a notebook. My work sits at the intersection of agents, inference, evaluation, computer vision, and production engineering.
+  I bully models out of notebooks and into production—agents, inference, evals, computer vision, and whatever breaks after deploy.
 </p>
 
 <h4>Currently</h4>
