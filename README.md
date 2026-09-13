@@ -184,3 +184,5 @@
   <p><i>Always building. Always learning.</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=35&section=footer" width="100%" alt="Footer" />
 </div>
+
+<img src="https://count.getloli.com/@:BLVCK-MAMBA-6?theme=rule34" alt="Profile views" />
